@@ -3,6 +3,7 @@
 
 
 # My Package
+Hi from statybtes
 
 Hi. A simple example package.
 
