@@ -4,7 +4,7 @@
 
 # My Package
 
-A simple example package.
+Hi. A simple example package.
 
 ## Installation
 
